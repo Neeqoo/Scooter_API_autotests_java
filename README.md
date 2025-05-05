@@ -1,0 +1,1 @@
+# Scooter_API_autotests_java
